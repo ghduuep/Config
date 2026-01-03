@@ -4,7 +4,6 @@ require("mason-lspconfig").setup({
 		"lua_ls",
 		"pyright",
 		"clangd",
-		"clang-format",
 	},
 })
 
